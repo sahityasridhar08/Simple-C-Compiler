@@ -170,6 +170,3 @@ int main(){
 	}
 	fclose(g);
 }
-ex10.c
-Open with
-Displaying ex10.c.
